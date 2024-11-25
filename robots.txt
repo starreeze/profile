@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://starreeze.github.io/profile/sitemap.xml
+Sitemap: https://starreeze.github.io/profile/profile/sitemap.xml
