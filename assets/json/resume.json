@@ -54,10 +54,17 @@
     },
     {
       "name": "AnyPrefer: An Automatic Framework for Preference Data Synthesis",
-      "publisher": "NIPS’ 2024 Workshop",
-      "releaseDate": "2024",
+      "publisher": "ICLR 2025",
+      "releaseDate": "2025",
       "url": "/publications",
       "summary": "Design a framework that can automatically generate preference data for multiple scenarios without requiring manual annotation."
+    },
+    {
+      "name": "GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models",
+      "publisher": "Submitted to ACL 2025",
+      "releaseDate": "2025",
+      "url": "/publications",
+      "summary": "Propose a novel large-scale multimodal benchmark on geometric perception, identifying the limitations of current models and exploring the impact of geometric perception on high level tasks."
     }
   ],
   "awards": [
