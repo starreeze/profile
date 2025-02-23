@@ -1,9 +1,11 @@
 {
   "basics": {
     "name": "Shangyu Xing",
-    "image": "",
-    "email": "starreeze@foxmail.com",
-    "url": "https://starreeze.github.io/profile"
+    "image": "/profile/assets/img/id_image.jpg",
+    "affiliation": "School of Artificial Intelligence, Nanjing University",
+    "email": "xsy@smail.nju.edu.cn",
+    "profile_url": "https://starreeze.github.io/profile",
+    "github": "https://github.com/starreeze"
   },
   "education": [
     {
@@ -11,7 +13,7 @@
       "area": "Artificial Intelligence",
       "studyType": "Master",
       "startDate": "2023-09-01",
-      "endDate": "2026-06-30",
+      "endDate": "2026-06-30 (expected)",
       "score": "88 / 100"
     },
     {
@@ -28,43 +30,49 @@
       "name": "DRIN: Dynamic Relation Interactive Network for Multimodal Entity Linking",
       "publisher": "ACMMM’ 2023",
       "releaseDate": "2023",
-      "url": "/profile/publications",
+      "url": "https://dl.acm.org/doi/10.1145/3581783.3612575",
       "summary": "Explicitly model four types of alignment between multimodal mentions and entities and uses a dynamic Graph Convolutional Network to automatically select appropriate alignment relations for different input samples."
     },
     {
       "name": "EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models",
       "publisher": "EMNLP’ 2024",
       "releaseDate": "2024",
-      "url": "/profile/publications",
+      "url": "https://aclanthology.org/2024.emnlp-main.67/",
       "summary": "Leverage external expert knowledge to reinforce the alignment between language and vision, thereby reducing multimodal hallucinations with no manually annotated data and minial computational resources."
     },
     {
-      "name": "AlignGPT: Multi-modal Large Language Models with Adaptive Alignment Capability.",
+      "name": "AlignGPT: Multi-modal Large Language Models with Adaptive Alignment Capability",
       "publisher": "Preprint",
       "releaseDate": "2023",
-      "url": "/profile/publications",
+      "url": "https://arxiv.org/abs/2405.14129",
       "summary": "Create distinct alignment vectors for differently aligned text-image pairs during pretraining, and allocate them to various subtasks in finetuning and inference."
     },
     {
-      "name": "Learning from Different text-image Pairs: A Relation-enhanced Graph Convolutional Network for Multimodal NER.",
+      "name": "Learning from Different text-image Pairs: A Relation-enhanced Graph Convolutional Network for Multimodal NER",
       "publisher": "ACMMM’ 2022",
       "releaseDate": "2022",
-      "url": "/profile/publications",
+      "url": "https://dl.acm.org/doi/10.1145/3503161.3548228",
       "summary": "Utilize Graph Neural Networks to capture external matching relationships across different text-image pairs."
     },
     {
       "name": "AnyPrefer: An Automatic Framework for Preference Data Synthesis",
       "publisher": "ICLR 2025",
       "releaseDate": "2025",
-      "url": "/profile/publications",
+      "url": "https://openreview.net/forum?id=WpZyPk79Fu",
       "summary": "Design a framework that can automatically generate preference data for multiple scenarios without requiring manual annotation."
     },
     {
       "name": "GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models",
       "publisher": "Submitted to ACL 2025",
       "releaseDate": "2025",
-      "url": "/profile/publications",
+      "url": "https://arxiv.org/abs/2412.21036",
       "summary": "Propose a novel large-scale multimodal benchmark on geometric perception, identifying the limitations of current models and exploring the impact of geometric perception on high level tasks."
+    },
+    {
+      "name": "Maximizing the Effectiveness of Larger BERT Models for Compression",
+      "publisher": "Submitted to ACL 2025",
+      "releaseDate": "2025",
+      "summary": "Propose a new KD method for BERT model by maximizing linear difference between selected layers, enabling better performance with larger teachers."
     }
   ],
   "awards": [
@@ -100,7 +108,8 @@
       "position": "Internship: Software R&D Engineer",
       "startDate": "2022-07",
       "endDate": "2022-09",
-      "summary": "Integrating the open-source SOTA model Tacotron2 with a proprietary model optimized for handling Chinese spoken language pitch and rhythm."
+      "summary": "Integrating the open-source SOTA model Tacotron2 with a proprietary model optimized for handling Chinese spoken language pitch and rhythm.",
+      "url": "https://en.wikipedia.org/wiki/Huawei"
     },
     {
       "name": "INFLY Tech (Shanghai) Co., Ltd.",
@@ -110,10 +119,18 @@
       "summary": "Implementing preference alignment algorithms RLHF/PPO and its variations DPO, RRHF; Training a BLOOM model with billion-level parameters using the Deepspeed and Megatron-LM frameworks, experimenting different algorithms."
     },
     {
+      "name": "University of North Carolina, Chapel Hill",
+      "position": "Research Intern led by Huaxiu Yao (Online)",
+      "startDate": "2024-06",
+      "endDate": "present",
+      "summary": "Implemented data synthesis algorithm with feedback on target vision-language model (AnyPrefer); Developing an explainable reward model on robotics (working paper)."
+    },
+    {
       "name": "School of Artificial Intelligence, Nanjing University",
       "position": "Teaching Assistant: Compilers - Principles, Techniques, and Tools",
       "startDate": "2024-09",
-      "endDate": "2025-02"
+      "endDate": "2025-02",
+      "summary": "Assisted in lectures, graded assignments and final exams."
     }
   ],
   "languages": [
