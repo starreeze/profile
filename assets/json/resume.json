@@ -42,8 +42,8 @@
     },
     {
       "name": "AlignGPT: Multi-modal Large Language Models with Adaptive Alignment Capability",
-      "publisher": "Preprint",
-      "releaseDate": "2023",
+      "publisher": "Submitted to ICCV 2025",
+      "releaseDate": "2024",
       "url": "https://arxiv.org/abs/2405.14129",
       "summary": "Create distinct alignment vectors for differently aligned text-image pairs during pretraining, and allocate them to various subtasks in finetuning and inference."
     },
@@ -73,6 +73,12 @@
       "publisher": "Submitted to ACL 2025",
       "releaseDate": "2025",
       "summary": "Propose a new KD method for BERT model by maximizing linear difference between selected layers, enabling better performance with larger teachers."
+    },
+    {
+      "name": "RealBench: A Chinese Multi-image Understanding Benchmark Close to Real-world Scenarios",
+      "publisher": "Submitted to ICCV 2025",
+      "releaseDate": "2025",
+      "summary": "Construct a new multi-image benchmark for multimodal LLMs from real user inputs on social platform."
     }
   ],
   "awards": [
