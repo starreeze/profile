@@ -42,7 +42,7 @@
     },
     {
       "name": "AlignGPT: Multi-modal Large Language Models with Adaptive Alignment Capability",
-      "publisher": "Submitted to ICCV 2025",
+      "publisher": "Submitted to EMNLP 2025",
       "releaseDate": "2024",
       "url": "https://arxiv.org/abs/2405.14129",
       "summary": "Create distinct alignment vectors for differently aligned text-image pairs during pretraining, and allocate them to various subtasks in finetuning and inference."
@@ -63,20 +63,20 @@
     },
     {
       "name": "GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models",
-      "publisher": "Submitted to ACL 2025",
+      "publisher": "Submitted to NeurIPS 2025",
       "releaseDate": "2025",
       "url": "https://arxiv.org/abs/2412.21036",
       "summary": "Propose a novel large-scale multimodal benchmark on geometric perception, identifying the limitations of current models and exploring the impact of geometric perception on high level tasks."
     },
     {
       "name": "Maximizing the Effectiveness of Larger BERT Models for Compression",
-      "publisher": "Submitted to ACL 2025",
+      "publisher": "ACL 2025",
       "releaseDate": "2025",
       "summary": "Propose a new KD method for BERT model by maximizing linear difference between selected layers, enabling better performance with larger teachers."
     },
     {
       "name": "RealBench: A Chinese Multi-image Understanding Benchmark Close to Real-world Scenarios",
-      "publisher": "Submitted to ICCV 2025",
+      "publisher": "Submitted to EMNLP 2025",
       "releaseDate": "2025",
       "summary": "Construct a new multi-image benchmark for multimodal LLMs from real user inputs on social platform."
     }
@@ -129,7 +129,7 @@
       "position": "Research Intern led by Huaxiu Yao (Online)",
       "startDate": "2024-06",
       "endDate": "present",
-      "summary": "Implemented data synthesis algorithm with feedback on target vision-language model (AnyPrefer); Developing an explainable reward model on robotics (working paper)."
+      "summary": "Implemented data synthesis algorithm with feedback on target vision-language model (AnyPrefer)."
     },
     {
       "name": "School of Artificial Intelligence, Nanjing University",
