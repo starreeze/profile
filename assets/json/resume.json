@@ -63,7 +63,7 @@
     },
     {
       "name": "GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models",
-      "publisher": "Submitted to ICLR 2025",
+      "publisher": "Submitted to ICML 2026",
       "releaseDate": "2025",
       "url": "https://arxiv.org/abs/2412.21036",
       "summary": "Propose a novel large-scale multimodal benchmark on geometric perception, identifying the limitations of current models and exploring the impact of geometric perception on high level tasks."
@@ -118,12 +118,11 @@
   ],
   "work": [
     {
-      "name": "Huawei Technologies Co., Ltd.",
-      "position": "Internship: Software R&D Engineer",
-      "startDate": "2022-07",
-      "endDate": "2022-09",
-      "summary": "Integrating the open-source SOTA model Tacotron2 with a proprietary model optimized for handling Chinese spoken language pitch and rhythm.",
-      "url": "https://en.wikipedia.org/wiki/Huawei"
+      "name": "Xiaohongshu Co., Ltd.",
+      "position": "Internship: Algorithm Engineer",
+      "startDate": "2025-12",
+      "endDate": "(Expected) 2026-03",
+      "summary": "(In progress) Researching AI search summarization."
     },
     {
       "name": "INFLY Tech (Shanghai) Co., Ltd.",
@@ -131,6 +130,14 @@
       "startDate": "2023-07",
       "endDate": "2023-09",
       "summary": "Implementing preference alignment algorithms RLHF/PPO and its variations DPO, RRHF; Training a BLOOM model with billion-level parameters using the Deepspeed and Megatron-LM frameworks, experimenting different algorithms."
+    },
+    {
+      "name": "Huawei Technologies Co., Ltd.",
+      "position": "Internship: Software R&D Engineer",
+      "startDate": "2022-07",
+      "endDate": "2022-09",
+      "summary": "Integrating the open-source SOTA model Tacotron2 with a proprietary model optimized for handling Chinese spoken language pitch and rhythm.",
+      "url": "https://en.wikipedia.org/wiki/Huawei"
     },
     {
       "name": "University of North Carolina, Chapel Hill",
