@@ -84,7 +84,7 @@
     },
     {
       "name": "Lookahead Tree-Based Rollouts for Enhanced Trajectory-Level Exploration in Reinforcement Learning with Verifiable Rewards",
-      "publisher": "Submitted to ICLR 2026",
+      "publisher": "ICLR 2026",
       "releaseDate": "2025",
       "summary": "Introduce a new tree-based sampling strategy to enhance group rollout diversity through branching on high-uncertainty tokens, simulating and pruning branches that exhibits prolonged similarity."
     }
@@ -121,7 +121,7 @@
       "name": "Xiaohongshu Co., Ltd.",
       "position": "Internship: Algorithm Engineer",
       "startDate": "2025-12",
-      "endDate": "(Expected) 2026-03",
+      "endDate": "2026-03",
       "summary": "(In progress) Researching AI search summarization."
     },
     {
